@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+
+.heart {
+	font-size: 30px;
+	text-align: right;
+}
+
+.company {
+	float: left;
+}
+
